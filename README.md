@@ -1,3 +1,5 @@
+[!Image](images/ICCWCPP.png)
+
 # 2019 ICC World Cup Prediction Contest
 
 Welcome to the WC Prediction Contest. Predict how the world cup will proceed and win!
