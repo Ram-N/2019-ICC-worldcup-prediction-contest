@@ -2,9 +2,9 @@
 
 # 2019 ICC World Cup Prediction Contest
 
-Can you predict the world cup Qaulifiers, Semifinalists and the Champion? 
+Can you correctly predict the World Cup Qaulifiers, Semifinalists and the Champion? Try it!
 
-# [Entry Form](http://bit.ly/2019_icc_worldcup_predictions)
+# [Click for Entry Form](http://bit.ly/2019_icc_worldcup_predictions)
 To enter your predictions, use the [entry form here](http://bit.ly/2019_icc_worldcup_predictions). Read on for the rules.
 
 
@@ -16,16 +16,16 @@ To enter your predictions, use the [entry form here](http://bit.ly/2019_icc_worl
 **Entry Deadline: 30 May 2019**, before the first ball is bowled. (10:30 am British Summer Time). Entries received after that will not be scored.
 
 
-## ICC World Cup Format [Wiki](https://en.wikipedia.org/wiki/2019_Cricket_World_Cup)
+## ICC World Cup Format [Wikipedia](https://en.wikipedia.org/wiki/2019_Cricket_World_Cup)
 
-- 10 teams will be playing in the Group stage. All-play-all in the Group stage. (45 games). 
+- 10 national teams will be playing in the Group stage. All-play-all in the Group stage. (45 games)
 - There will be 3 matches in the **Knockout stage**
 - The top 4 teams from the Group Stage are ranked and go on the Knockout stage 
 - Top-ranking team #1 plays Top_finisher #4 (knockout)
 - Top-2 & Top-3 play each other (knockout) 
 - Finals: The 2 winners go on to the Finals, where the winner is crowned the ICC 2019 Champion.
 
-### Scoring Rules for the Prediction Contest
+## Scoring Rules for the Prediction Contest
 
 ### Group Stage
 - You have to pick the 4 qualifying teams out of the 10 in the Group stage
