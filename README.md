@@ -47,17 +47,8 @@ Maximum points that can be scored = 16 + 16 + 16 = **48 points**
 The leaderboard will be updated regularly.
 The ultimate winner will be declared on July 14th, 2019.
 
-If you are ready to enter your predictions, the Form can be found [here](http://bit.ly/2019_icc_worldcup_predictions)
 
-Good luck.
-
-
-
-
-
-You can use the [editor on GitHub](https://github.com/Ram-N/2019-ICC-worldcup-prediction-contest/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Good luck. If you are ready to enter your predictions, the Form can be found [here](http://bit.ly/2019_icc_worldcup_predictions)
 
 
 
