@@ -1,4 +1,4 @@
-[!Image](images/ICCWCPP.png)
+![Logo](images/ICCWCPP.png)
 
 # 2019 ICC World Cup Prediction Contest
 
