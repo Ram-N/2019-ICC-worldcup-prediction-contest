@@ -4,7 +4,7 @@
 
 Welcome to the WC Prediction Contest. Can you predict the world cup Qaulifiers, Semifinalists and the Champion? 
 
-# [Entry Form]((http://bit.ly/2019_icc_worldcup_predictions)
+# [Entry Form](http://bit.ly/2019_icc_worldcup_predictions)
 To enter your predictions, use the [entry form here](http://bit.ly/2019_icc_worldcup_predictions). Read on for the rules.
 
 
