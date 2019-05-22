@@ -2,7 +2,7 @@
 
 # 2019 ICC World Cup Prediction Contest
 
-Welcome to the WC Prediction Contest. Can you predict the world cup Qaulifiers, Semifinalists and the Champion? 
+Can you predict the world cup Qaulifiers, Semifinalists and the Champion? 
 
 # [Entry Form](http://bit.ly/2019_icc_worldcup_predictions)
 To enter your predictions, use the [entry form here](http://bit.ly/2019_icc_worldcup_predictions). Read on for the rules.
@@ -47,11 +47,11 @@ To enter your predictions, use the [entry form here](http://bit.ly/2019_icc_worl
 Maximum points that can be scored = 16 + 16 + 16 = **48 points**
 
 ### Leaderboard
-The leaderboard will be updated regularly.
-The ultimate winner will be declared on July 14th, 2019.
+The leaderboard will be updated regularly, once the Group stage nears its completion and some team places are known. Note that there is a separate leaderboard for participants who are Under-18.
+The **Ultimate winner** will be declared on July 14th, 2019.
 
 
-Good luck. If you are ready to enter your predictions, the Form can be found [here](http://bit.ly/2019_icc_worldcup_predictions)
+Good luck. If you are ready to enter your predictions, the form can be found [here](http://bit.ly/2019_icc_worldcup_predictions)
 
 
 
