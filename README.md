@@ -2,13 +2,16 @@
 
 # 2019 ICC World Cup Prediction Contest
 
-Welcome to the WC Prediction Contest. Predict how the world cup will proceed and win!
+Welcome to the WC Prediction Contest. Can you predict the world cup Qaulifiers, Semifinalists and the Champion? 
+
+# [Entry Form]((http://bit.ly/2019_icc_worldcup_predictions)
 To enter your predictions, use the [entry form here](http://bit.ly/2019_icc_worldcup_predictions). Read on for the rules.
+
 
 ## Contest Rules and Guidelines
 - This contest is open to anyone over the age of 4.
 - One entry per person. (Honor system)
-- You are competing for glory. The winner will be crowned the Prediction king/queen for the next 4 years.
+- You are competing for glory. The winner will be the undisputed Worldcup Prediction Champion for the next 4 years, until the next Cricket World cup.
 
 **Entry Deadline: 30 May 2019**, before the first ball is bowled. (10:30 am British Summer Time). Entries received after that will not be scored.
 
