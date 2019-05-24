@@ -13,7 +13,7 @@ To enter your predictions, use the [entry form here](http://bit.ly/2019_icc_worl
 - One entry per person. (Honor system)
 - You are competing for glory. The winner will be the undisputed Worldcup Prediction Champion for the next 4 years, until the next Cricket World cup.
 
-**Entry Deadline: 30 May 2019**, before the first ball is bowled. (10:30 am British Summer Time). Entries received after that will not be scored.
+**Entry Deadline: 30 May 2019**, before the first ball is bowled. (10:30 am British Summer Time). This is effectively late night on the 29th, if you live in North America. The form will not accept entries after that time.
 
 
 ## ICC World Cup Format [Wikipedia](https://en.wikipedia.org/wiki/2019_Cricket_World_Cup)
@@ -22,7 +22,7 @@ To enter your predictions, use the [entry form here](http://bit.ly/2019_icc_worl
 - There will be 3 matches in the **Knockout stage**
 - The top 4 teams from the Group Stage are ranked and go on the Knockout stage 
 - Top-ranking team #1 plays Top_finisher #4 (knockout)
-- Top-2 & Top-3 play each other (knockout) 
+- Top-finisher #2 & Top-finisher #3 play each other (knockout) 
 - Finals: The 2 winning semi-finalists go on to the Finals, where the winner is crowned the ICC 2019 Champion.
 
 ## Scoring Rules for the Prediction Contest
