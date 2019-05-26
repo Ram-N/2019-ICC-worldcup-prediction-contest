@@ -11,16 +11,16 @@ To enter your predictions, use the [entry form here](http://bit.ly/2019_icc_worl
 ## Contest Rules and Guidelines
 - This contest is open to anyone over the age of 4.
 - One entry per person. (Honor system)
-- You are competing for glory. The winner will be the undisputed Worldcup Prediction Champion for the next 4 years, until the next Cricket World cup.
+- You are competing for glory. The winner will be the undisputed **Worldcup Prediction Champion** for the next 4 years, until the next Cricket World cup.
 
 **Entry Deadline: 30 May 2019**, before the first ball is bowled. (10:30 am British Summer Time). This is effectively late night on the 29th, if you live in North America. The form will not accept entries after that time.
 
 
-## ICC World Cup Format [Wikipedia](https://en.wikipedia.org/wiki/2019_Cricket_World_Cup)
+## ICC World Cup Format ([Wikipedia](https://en.wikipedia.org/wiki/2019_Cricket_World_Cup) Link)
 
 - 10 national teams will be playing in the Group stage. All-play-all in the Group stage. (45 games)
 - There will be 3 matches in the **Knockout stage**
-- The top 4 teams from the Group Stage are ranked and go on the Knockout stage 
+- The top 4 teams from the Group Stage are ranked and all four go on the Knockout (Semi-finals) stage 
 - Top-ranking team #1 plays Top_finisher #4 (knockout)
 - Top-finisher #2 & Top-finisher #3 play each other (knockout) 
 - Finals: The 2 winning semi-finalists go on to the Finals, where the winner is crowned the ICC 2019 Champion.
@@ -38,7 +38,7 @@ To enter your predictions, use the [entry form here](http://bit.ly/2019_icc_worl
 - The maximum possible score in the Group Stage is **16 points**. (4 x 4)
 
 ### Semi-finals
-- 8 points for correctly picking each team that makes it to the Semifinals. (It does not matter which Semifinal game)
+- 8 points for correctly picking a team that makes it to the Semifinals.
 - The maximum score in the Semifinals is **16 points**. (8 x 2)
 
 ### Finals
