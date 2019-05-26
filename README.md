@@ -19,7 +19,7 @@ To enter your predictions, use the [entry form here](http://bit.ly/2019_icc_worl
 ## ICC World Cup Format ([Wikipedia](https://en.wikipedia.org/wiki/2019_Cricket_World_Cup) Link)
 
 - 10 national teams will be playing in the Group stage. All-play-all in the Group stage. (45 games)
-- The top 4 teams from the Group Stage are ranked and all four go on the Knockout (Semi-finals) stage 
+- The top 4 teams from the Group Stage are ranked and all four go on to the Knockout (Semi-finals) stage 
 - There will be 3 matches in the **Knockout stage**
 - Top-ranking team #1 plays Top_finisher #4 (Semifinals_1: knockout)
 - Top-finisher #2 & Top-finisher #3 play each other (Semifinals_2: knockout) 
