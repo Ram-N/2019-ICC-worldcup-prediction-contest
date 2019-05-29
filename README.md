@@ -8,7 +8,7 @@ Can you correctly predict the World Cup Qaulifiers, Semifinalists and the Champi
 To enter your predictions, use the [entry form here](http://bit.ly/2019_icc_worldcup_predictions). Read on for the rules.
 
 
-<iframe width="400" height="450" src="https://itsalmo.st/embed/world-cup-time-431v" scrolling="no" frameborder="0" style="border: 1px solid #DBD8D7;" ></iframe>
+![Countdown](https://itsalmo.st/embed/world-cup-time-431v)
 
 ## Contest Rules and Guidelines
 - This contest is open to anyone over the age of 4.
