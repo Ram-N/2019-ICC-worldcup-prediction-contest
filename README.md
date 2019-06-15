@@ -2,57 +2,58 @@
 
 # Leaderboard
 
-| Name | <18?|  Q1 | Q2 | Q3| Q4| S1|S2|Winner| Points|
-| --- | --- | --- | ---| --- | ---| --- | ---| ---|
-|Chayan||ENG|AUS|SA|NZ|ENG|AUS|ENG| 0|
-|Goutham Ekollu||ENG|IND|SA|AUS|ENG|IND|IND| 0|
-|Keshav Narasimhan|Yes|ENG|AUS|IND|NZ|AUS|ENG|ENG| 0|
-|Shashank Tiwari||IND|AUS|PAK|WI|IND|AUS|IND| 0|
-|DEboy2007|Yes|IND|IND|IND|IND|IND|IND|IND| 0|
-|Mahesh||ENG|IND|AUS|WI|ENG|IND|ENG| 0|
-|Ananth||ENG|IND|SA|AUS|ENG|IND|IND| 0|
-|Krishnaveni||AUS|IND|ENG|SA|AUS|IND|IND| 0|
-|Ravi||IND|AUS|SA|WI|IND|WI|IND| 0|
-|Junior messi|Yes|ENG|IND|AUS|SA|SA|IND|IND| 0|
-|Shiva||ENG|AUS|WI|IND|ENG|AUS|ENG| 0|
-|Allrounder||ENG|AUS|NZ|SA|ENG|AUS|ENG| 0|
-|sanjay||IND|AUS|BAN|NZ|IND|AUS|IND| 0|
-|Yossarian||IND|ENG|AUS|NZ|ENG|AUS|AUS| 0|
-|Subbu M|Yes|ENG|AUS|IND|NZ|ENG|AUS|ENG| 0|
-|Harsh||AUS|ENG|IND|PAK|IND|ENG|IND| 0|
-|bala||ENG|NZ|IND|AUS|ENG|IND|IND| 0|
-|Tees||ENG|IND|AUS|SA|IND|AUS|AUS| 0|
-|Sudar|Yes|AUS|ENG|NZ|IND|BAN|ENG|ENG| 0|
-|Aditya Madhavan||AUS|ENG|NZ|WI|AUS|ENG|ENG| 0|
-|shnoong||ENG|IND|AUS|NZ|IND|AUS|IND| 0|
-|Dodes ||ENG|IND|NZ|AUS|IND|ENG|ENG| 0|
-|Anup||ENG|AUS|IND|WI|IND|ENG|IND| 0|
-|Ishi|Yes|ENG|IND|AUS|WI|ENG|IND|IND| 0|
-|Rahul||ENG|NZ|IND|AUS|AUS|IND|IND| 0|
-|R. Santhanam||ENG|AUS|IND|NZ|ENG|AUS|AUS| 0|
-|Shaj||AUS|NZ|SA|IND|AUS|NZ|AUS| 0|
-|Ram ||ENG|IND|SA|AUS|ENG|IND|ENG| 0|
-|GAUTAM|Yes|ENG|AUS|NZ|IND|ENG|AUS|ENG| 0|
-|Rajesh||IND|ENG|SA|WI|IND|ENG|ENG| 0|
-|AS|Yes|IND|NZ|ENG|PAK|IND|NZ|IND| 0|
-|SVM||IND|AUS|ENG|WI|IND|AUS|IND| 0|
-|BharathK||AUS|IND|SA|ENG|AUS|SA|SA| 0|
-|Anurag Ch||ENG|IND|AUS|WI|ENG|IND|IND| 0|
-|CricHawk||IND|ENG|SA|AUS|IND|ENG|IND| 0|
-|Vasi||SA|NZ|AUS|IND|IND|AUS|AUS| 0|
-|Sahana|Yes|AUS|ENG|WI|IND|ENG|WI|WI| 0|
-|KARMA 🦄|Yes|ENG|IND|AUS|PAK|IND|ENG|ENG| 0|
-|Dart Thwader||PAK|IND|SA|AUS|SA|IND|IND| 0|
-|Laddu|Yes|AUS|BAN|AUS|AUS|BAN|BAN|AUS| 0|
-|Sundar S||ENG|IND|SA|NZ|IND|SA|IND| 0|
-|StephCurry739Champs|Yes|AUS|ENG|IND|NZ|IND|AUS|AUS| 0|
-|Mukund||ENG|AUS|IND|WI|AUS|ENG|ENG| 0|
-|Gautam||ENG|AUS|IND|NZ|ENG|IND|ENG| 0|
-|Krishna||AUS|SL|IND|ENG|ENG|IND|IND| 0|
-|Venkatesh ||IND|NZ|AUS|ENG|AUS|IND|AUS| 0|
-|Partha||ENG|WI|IND|AUS|ENG|WI|ENG| 0|
-|Sreenivas Gollapudi||ENG|IND|NZ|SA|ENG|IND|ENG| 0|
-|Ranga||ENG|IND|AUS|WI|IND|ENG|IND| 0|
+|Name |Place| <18?| Q1 | Q2 | Q3| Q4| S1|S2|Winner| Points|
+| --- |---| --- | --- | ---| --- | ---| --- | ---| ---|
+|Chayan|Oakland, CA||ENG|AUS|SA|NZ|ENG|AUS|ENG|0|
+|Goutham Ekollu|Bangalore, India||ENG|IND|SA|AUS|ENG|IND|IND|0|
+|Keshav Narasimhan|Pittsburgh, USA|Yes|ENG|AUS|IND|NZ|AUS|ENG|ENG|0|
+|Shashank Tiwari|Palo Alto, CA||IND|AUS|PAK|WI|IND|AUS|IND|0|
+|DEboy2007|Bangalore, India|Yes|IND|IND|IND|IND|IND|IND|IND|0
+|Mahesh|Chennai, India||ENG|IND|AUS|WI|ENG|IND|ENG|0
+|Ananth|Chennai, India||ENG|IND|SA|AUS|ENG|IND|IND|0
+|Krishnaveni|India||AUS|IND|ENG|SA|AUS|IND|IND|0|
+|Ravi|Kolkata, India||IND|AUS|SA|WI|IND|WI|IND|0|
+|Junior messi|Chennai|Yes|ENG|IND|AUS|SA|SA|IND|IND|0|
+|Shiva|GLEN ALLEN||ENG|AUS|WI|IND|ENG|AUS|ENG|0|
+|Allrounder|India||ENG|AUS|NZ|SA|ENG|AUS|ENG|0|
+|sanjay|Cupertino, CA||IND|AUS|BAN|NZ|IND|AUS|IND|0|
+|Yossarian|Schaumburg, USA||IND|ENG|AUS|NZ|ENG|AUS|AUS|0|
+|Subbu M|Palo Alto, USA|Yes|ENG|AUS|IND|NZ|ENG|AUS|ENG|0|
+|Harsh|USA||AUS|ENG|IND|PAK|IND|ENG|IND|0|
+|bala|United States of America||ENG|NZ|IND|AUS|ENG|IND|IND|0|
+|Tees|United States||ENG|IND|AUS|SA|IND|AUS|AUS|0|
+|Sudar|Chennai, India|Yes|AUS|ENG|NZ|IND|BAN|ENG|ENG|0|
+|Aditya Madhavan|Bangalore, India||AUS|ENG|NZ|WI|AUS|ENG|ENG|0|
+|shnoong|Redwood City, CA||ENG|IND|AUS|NZ|IND|AUS|IND|0|
+|Dodes |Newton , MA||ENG|IND|NZ|AUS|IND|ENG|ENG|0|
+|Anup|Santa Clara, CA||ENG|AUS|IND|WI|IND|ENG|IND|0|
+|Ishi|United States|Yes|ENG|IND|AUS|WI|ENG|IND|IND|0|
+|Rahul|Oxford, UK||ENG|NZ|IND|AUS|AUS|IND|IND|0|
+|R. Santhanam|Chennai/India||ENG|AUS|IND|NZ|ENG|AUS|AUS|0|
+|Shaj|Houston, TX||AUS|NZ|SA|IND|AUS|NZ|AUS|0|
+|Ram |Sunnyvale, CA||ENG|IND|SA|AUS|ENG|IND|ENG|0|
+|GAUTAM|Chennai, India|Yes|ENG|AUS|NZ|IND|ENG|AUS|ENG|0|
+|Rajesh|Chennai, India||IND|ENG|SA|WI|IND|ENG|ENG|0|
+|AS|Milpitas, CA|Yes|IND|NZ|ENG|PAK|IND|NZ|IND|0|
+|SVM|India||IND|AUS|ENG|WI|IND|AUS|IND|0|
+|BharathK|Bengaluru, India||AUS|IND|SA|ENG|AUS|SA|SA|0|
+|Anurag Ch|Dublin, CA||ENG|IND|AUS|WI|ENG|IND|IND|0|
+|CricHawk|Richmond, VA||IND|ENG|SA|AUS|IND|ENG|IND|0|
+|Vasi|Chennai, India||SA|NZ|AUS|IND|IND|AUS|AUS|0|
+|Sahana|Hyderabad, India|Yes|AUS|ENG|WI|IND|ENG|WI|WI|0|
+|KARMA 🦄|Hottest place on earth|Yes|ENG|IND|AUS|PAK|IND|ENG|ENG|0|
+|Dart Thwader|Cupertino, CA||PAK|IND|SA|AUS|SA|IND|IND|0|
+|Laddu|India|Yes|AUS|BAN|AUS|AUS|BAN|BAN|AUS|0|
+|Sundar S|USA||ENG|IND|SA|NZ|IND|SA|IND|0|
+|StephCurry739Champs|Fremont, CA|Yes|AUS|ENG|IND|NZ|IND|AUS|AUS|0|
+|Mukund|Pittsburgh, PA||ENG|AUS|IND|WI|AUS|ENG|ENG|0|
+|Gautam|USA||ENG|AUS|IND|NZ|ENG|IND|ENG|0|
+|Krishna|Sunnyvale, USA||AUS|SL|IND|ENG|ENG|IND|IND|0|
+|Venkatesh |Chennai, India||IND|NZ|AUS|ENG|AUS|IND|AUS|0|
+|Partha|Chennai, India||ENG|WI|IND|AUS|ENG|WI|ENG|0|
+|Sreenivas Gollapudi|USA||ENG|IND|NZ|SA|ENG|IND|ENG|0|
+|Ranga|Buffalo, NY||ENG|IND|AUS|WI|IND|ENG|IND|0|
+
 
 
 # 2019 ICC World Cup Prediction Contest
