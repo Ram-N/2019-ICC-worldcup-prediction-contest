@@ -1,5 +1,60 @@
 ![Logo](images/ICCWCPP.png)
 
+# Leaderboard
+
+| Name | <18?|  Q1 | Q2 | Q3| Q4| S1|S2|Winner| Points|
+| --- | --- | --- | ---| --- | ---| --- | ---| ---|
+|Chayan||ENG|AUS|SA|NZ|ENG|AUS|ENG| 0|
+|Goutham Ekollu||ENG|IND|SA|AUS|ENG|IND|IND| 0|
+|Keshav Narasimhan|Yes, I am under 18 years old|ENG|AUS|IND|NZ|AUS|ENG|ENG| 0|
+|Shashank Tiwari||IND|AUS|PAK|WI|IND|AUS|IND| 0|
+|DEboy2007|Yes, I am under 18 years old|IND|IND|IND|IND|IND|IND|IND| 0|
+|Mahesh||ENG|IND|AUS|WI|ENG|IND|ENG| 0|
+|Ananth||ENG|IND|SA|AUS|ENG|IND|IND| 0|
+|Krishnaveni||AUS|IND|ENG|SA|AUS|IND|IND| 0|
+|Ravi||IND|AUS|SA|WI|IND|WI|IND| 0|
+|Junior messi|Yes, I am under 18 years old|ENG|IND|AUS|SA|SA|IND|IND| 0|
+|Shiva||ENG|AUS|WI|IND|ENG|AUS|ENG| 0|
+|Allrounder||ENG|AUS|NZ|SA|ENG|AUS|ENG| 0|
+|sanjay||IND|AUS|BAN|NZ|IND|AUS|IND| 0|
+|Yossarian||IND|ENG|AUS|NZ|ENG|AUS|AUS| 0|
+|Subbu M|Yes, I am under 18 years old|ENG|AUS|IND|NZ|ENG|AUS|ENG| 0|
+|Harsh||AUS|ENG|IND|PAK|IND|ENG|IND| 0|
+|bala||ENG|NZ|IND|AUS|ENG|IND|IND| 0|
+|Tees||ENG|IND|AUS|SA|IND|AUS|AUS| 0|
+|Sudar|Yes, I am under 18 years old|AUS|ENG|NZ|IND|BAN|ENG|ENG| 0|
+|Aditya Madhavan||AUS|ENG|NZ|WI|AUS|ENG|ENG| 0|
+|shnoong||ENG|IND|AUS|NZ|IND|AUS|IND| 0|
+|Dodes ||ENG|IND|NZ|AUS|IND|ENG|ENG| 0|
+|Anup||ENG|AUS|IND|WI|IND|ENG|IND| 0|
+|Ishi|Yes, I am under 18 years old|ENG|IND|AUS|WI|ENG|IND|IND| 0|
+|Rahul||ENG|NZ|IND|AUS|AUS|IND|IND| 0|
+|R. Santhanam||ENG|AUS|IND|NZ|ENG|AUS|AUS| 0|
+|Shaj||AUS|NZ|SA|IND|AUS|NZ|AUS| 0|
+|Ram ||ENG|IND|SA|AUS|ENG|IND|ENG| 0|
+|GAUTAM|Yes, I am under 18 years old|ENG|AUS|NZ|IND|ENG|AUS|ENG| 0|
+|Rajesh||IND|ENG|SA|WI|IND|ENG|ENG| 0|
+|AS|Yes, I am under 18 years old|IND|NZ|ENG|PAK|IND|NZ|IND| 0|
+|SVM||IND|AUS|ENG|WI|IND|AUS|IND| 0|
+|BharathK||AUS|IND|SA|ENG|AUS|SA|SA| 0|
+|Anurag Ch||ENG|IND|AUS|WI|ENG|IND|IND| 0|
+|CricHawk||IND|ENG|SA|AUS|IND|ENG|IND| 0|
+|Vasi||SA|NZ|AUS|IND|IND|AUS|AUS| 0|
+|Sahana|Yes, I am under 18 years old|AUS|ENG|WI|IND|ENG|WI|WI| 0|
+|KARMA 🦄|Yes, I am under 18 years old|ENG|IND|AUS|PAK|IND|ENG|ENG| 0|
+|Dart Thwader||PAK|IND|SA|AUS|SA|IND|IND| 0|
+|Laddu|Yes, I am under 18 years old|AUS|BAN|AUS|AUS|BAN|BAN|AUS| 0|
+|Sundar S||ENG|IND|SA|NZ|IND|SA|IND| 0|
+|StephCurry739Champs|Yes, I am under 18 years old|AUS|ENG|IND|NZ|IND|AUS|AUS| 0|
+|Mukund||ENG|AUS|IND|WI|AUS|ENG|ENG| 0|
+|Gautam||ENG|AUS|IND|NZ|ENG|IND|ENG| 0|
+|Krishna||AUS|SL|IND|ENG|ENG|IND|IND| 0|
+|Venkatesh ||IND|NZ|AUS|ENG|AUS|IND|AUS| 0|
+|Partha||ENG|WI|IND|AUS|ENG|WI|ENG| 0|
+|Sreenivas Gollapudi||ENG|IND|NZ|SA|ENG|IND|ENG| 0|
+|Ranga||ENG|IND|AUS|WI|IND|ENG|IND| 0|
+
+
 # 2019 ICC World Cup Prediction Contest
 
 Can you correctly predict the World Cup Qaulifiers, Semifinalists and the Champion? Try it!
