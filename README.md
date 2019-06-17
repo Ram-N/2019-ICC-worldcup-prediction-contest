@@ -18,7 +18,7 @@
 |Allrounder|India||ENG|AUS|NZ|SA|ENG|AUS|ENG|0|
 |sanjay|Cupertino, CA||IND|AUS|BAN|NZ|IND|AUS|IND|0|
 |Yossarian|Schaumburg, USA||IND|ENG|AUS|NZ|ENG|AUS|AUS|0|
-|Subbu M|Palo Alto, USA|Yes|ENG|AUS|IND|NZ|ENG|AUS|ENG|0|
+|Subbu M|Palo Alto, USA||ENG|AUS|IND|NZ|ENG|AUS|ENG|0|
 |Harsh|USA||AUS|ENG|IND|PAK|IND|ENG|IND|0|
 |bala|United States of America||ENG|NZ|IND|AUS|ENG|IND|IND|0|
 |Tees|United States||ENG|IND|AUS|SA|IND|AUS|AUS|0|
