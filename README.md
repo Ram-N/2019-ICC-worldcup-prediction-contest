@@ -22,7 +22,7 @@
 |Harsh|USA||AUS|ENG|IND|PAK|IND|ENG|IND|0|
 |bala|United States of America||ENG|NZ|IND|AUS|ENG|IND|IND|0|
 |Tees|United States||ENG|IND|AUS|SA|IND|AUS|AUS|0|
-|Sudar|Chennai, India|Yes|AUS|ENG|NZ|IND|BAN|ENG|ENG|0|
+|Sudar|Chennai, India||AUS|ENG|NZ|IND|BAN|ENG|ENG|0|
 |Aditya Madhavan|Bangalore, India||AUS|ENG|NZ|WI|AUS|ENG|ENG|0|
 |shnoong|Redwood City, CA||ENG|IND|AUS|NZ|IND|AUS|IND|0|
 |Dodes |Newton , MA||ENG|IND|NZ|AUS|IND|ENG|ENG|0|
