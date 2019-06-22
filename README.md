@@ -2,7 +2,7 @@
 
 # Leaderboard
 
-|Rank|Name |Place| Under-18?| Q1 | Q2 | Q3| Q4| S1|S2|Winner| Est. Points*|
+|Rank|Name |Place| <18| Q1 | Q2 | Q3| Q4| S1|S2|Win|Points*|
 | --- |--- | --- | ---| --- | ---| --- | ---| ---|
 1|Venkatesh |Chennai, India|0|IND|NZ|AUS|ENG|AUS|IND|AUS|12|
 2|Krishna|Sunnyvale, USA|0|AUS|SL|IND|ENG|ENG|IND|IND|11|
