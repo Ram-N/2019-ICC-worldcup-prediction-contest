@@ -54,7 +54,7 @@
 48|DEboy2007|Bangalore, India|1|IND|IND|IND|IND|IND|IND|IND|4|
 49|Laddu|India|1|AUS|BAN|AUS|AUS|BAN|BAN|AUS|4|
 
-* The Score is *provisional* since only 29 out of 45 matches have been played.
+* The Score is *provisional* since only 30 out of 45 matches have been played.
 
 # 2019 ICC World Cup Prediction Contest
 
