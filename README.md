@@ -56,6 +56,22 @@
 
 * The Score is *provisional* since only 30 out of 45 matches have been played.
 
+# Juniors Leaderboard
+
+|Rank|Name |Place| <18| Q1 | Q2 | Q3| Q4| S1|S2|Win|Points*|
+| --- |--- | --- | ---| --- | ---| --- | ---| ---|
+1|Keshav Narasimhan|Pittsburgh, USA|1|ENG|AUS|IND|NZ|AUS|ENG|ENG|10|
+2|GAUTAM|Chennai, India|1|ENG|AUS|NZ|IND|ENG|AUS|ENG|10|
+3|StephCurry739Champs|Fremont, CA|1|AUS|ENG|IND|NZ|IND|AUS|AUS|10|
+4|AS|Milpitas, CA|1|IND|NZ|ENG|PAK|IND|NZ|IND|8|
+5|Sahana|Hyderabad, India|1|AUS|ENG|WI|IND|ENG|WI|WI|8|
+6|Junior messi|Chennai, India|1|ENG|IND|AUS|SA|SA|IND|IND|7|
+7|Ishi|USA|1|ENG|IND|AUS|WI|ENG|IND|IND|7|
+8|KARMA 🦄|Hyderabad, India|1|ENG|IND|AUS|PAK|IND|ENG|ENG|7|
+9|DEboy2007|Bangalore, India|1|IND|IND|IND|IND|IND|IND|IND|4|
+10|Laddu|India|1|AUS|BAN|AUS|AUS|BAN|BAN|AUS|4|
+
+
 # 2019 ICC World Cup Prediction Contest
 
 Can you correctly predict the World Cup Qaulifiers, Semifinalists and the Champion? Try it!
