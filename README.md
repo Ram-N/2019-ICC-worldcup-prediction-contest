@@ -4,73 +4,72 @@
 
 |Rank|Name |Place| <18| Q1 | Q2 | Q3| Q4| S1|S2|Win|Points*|
 | --- |--- | --- | ---| --- | ---| --- | ---| ---|
-T-1|BharathK|Bengaluru, India|0|AUS|IND|SA|ENG|AUS|SA|SA|12|
-T-1|Venkatesh |Chennai, India|0|IND|NZ|AUS|ENG|AUS|IND|AUS|12|
-T-1|Sudar|Chennai, India|0|AUS|ENG|NZ|IND|BAN|ENG|ENG|12|
-T-1|StephCurry739Champs|Fremont, CA|1|AUS|ENG|IND|NZ|IND|AUS|AUS|12|
-T-5|Krishna|Sunnyvale, USA|0|AUS|SL|IND|ENG|ENG|IND|IND|11|
-T-5|Krishnaveni|India|0|AUS|IND|ENG|SA|AUS|IND|IND|11|
-T-7|R. Santhanam|Chennai, India|0|ENG|AUS|IND|NZ|ENG|AUS|AUS|10|
-T-7|shnoong|Redwood City, CA|0|ENG|IND|AUS|NZ|IND|AUS|IND|10|
-T-7|Subbu M|Palo Alto, USA|0|ENG|AUS|IND|NZ|ENG|AUS|ENG|10|
-T-7|Yossarian|Schaumburg, USA|0|IND|ENG|AUS|NZ|ENG|AUS|AUS|10|
-T-7|Dodes |Newton , MA|0|ENG|IND|NZ|AUS|IND|ENG|ENG|10|
-T-7|Aditya Madhavan|Bangalore, India|0|AUS|ENG|NZ|WI|AUS|ENG|ENG|10|
-T-7|Gautam|Chicago, IL, USA|0|ENG|AUS|IND|NZ|ENG|IND|ENG|10|
-T-7|GAUTAM|Chennai, India|1|ENG|AUS|NZ|IND|ENG|AUS|ENG|10|
-T-7|Keshav Narasimhan|Pittsburgh, USA|1|ENG|AUS|IND|NZ|AUS|ENG|ENG|10|
-T-16|Shaj|Houston, TX|0|AUS|NZ|SA|IND|AUS|NZ|AUS|9|
-T-16|Harsh|USA|0|AUS|ENG|IND|PAK|IND|ENG|IND|9|
-T-16|SVM|Bengaluru, India|0|IND|AUS|ENG|WI|IND|AUS|IND|9|
-T-16|AS|Milpitas, CA|1|IND|NZ|ENG|PAK|IND|NZ|IND|9|
-T-16|sanjay|Cupertino, CA|0|IND|AUS|BAN|NZ|IND|AUS|IND|9|
-T-16|Sreenivas Gollapudi|USA|0|ENG|IND|NZ|SA|ENG|IND|ENG|9|
-T-22|bala|USA|0|ENG|NZ|IND|AUS|ENG|IND|IND|8|
-T-22|Sahana|Hyderabad, India|1|AUS|ENG|WI|IND|ENG|WI|WI|8|
-T-22|Allrounder|India|0|ENG|AUS|NZ|SA|ENG|AUS|ENG|8|
-T-22|Sundar S|USA|0|ENG|IND|SA|NZ|IND|SA|IND|8|
+1|Yossarian|Schaumburg, USA|0|IND|ENG|AUS|NZ|ENG|AUS|AUS|14|
+T-2|StephCurry739Champs|Fremont, CA|1|AUS|ENG|IND|NZ|IND|AUS|AUS|12|
+T-2|SVM|Bengaluru, India|0|IND|AUS|ENG|WI|IND|AUS|IND|12|
+T-2|shnoong|Redwood City, CA|0|ENG|IND|AUS|NZ|IND|AUS|IND|12|
+T-2|Subbu M|Palo Alto, USA|0|ENG|AUS|IND|NZ|ENG|AUS|ENG|12|
+T-2|sanjay|Cupertino, CA|0|IND|AUS|BAN|NZ|IND|AUS|IND|12|
+T-2|R. Santhanam|Chennai, India|0|ENG|AUS|IND|NZ|ENG|AUS|AUS|12|
+T-2|Venkatesh |Chennai, India|0|IND|NZ|AUS|ENG|AUS|IND|AUS|12|
+T-2|Gautam|Chicago, IL, USA|0|ENG|AUS|IND|NZ|ENG|IND|ENG|12|
+T-2|Keshav Narasimhan|Pittsburgh, USA|1|ENG|AUS|IND|NZ|AUS|ENG|ENG|12|
+T-11|Krishnaveni|India|0|AUS|IND|ENG|SA|AUS|IND|IND|10|
+T-11|AS|Milpitas, CA|1|IND|NZ|ENG|PAK|IND|NZ|IND|10|
+T-11|Dodes |Newton , MA|0|ENG|IND|NZ|AUS|IND|ENG|ENG|10|
+T-11|Sudar|Chennai, India|0|AUS|ENG|NZ|IND|BAN|ENG|ENG|10|
+T-11|Chayan|Oakland, CA|0|ENG|AUS|SA|NZ|ENG|AUS|ENG|10|
+T-11|GAUTAM|Chennai, India|1|ENG|AUS|NZ|IND|ENG|AUS|ENG|10|
+T-17|Aditya Madhavan|Bangalore, India|0|AUS|ENG|NZ|WI|AUS|ENG|ENG|9|
+T-17|BharathK|Bengaluru, India|0|AUS|IND|SA|ENG|AUS|SA|SA|9|
+T-17|Allrounder|India|0|ENG|AUS|NZ|SA|ENG|AUS|ENG|9|
+T-17|Sundar S|USA|0|ENG|IND|SA|NZ|IND|SA|IND|9|
+T-17|CricHawk|Richmond, VA|0|IND|ENG|SA|AUS|IND|ENG|IND|9|
+T-22|KARMA 🦄|Hyderabad, India|1|ENG|IND|AUS|PAK|IND|ENG|ENG|8|
+T-22|Mukund|Pittsburgh, PA|0|ENG|AUS|IND|WI|AUS|ENG|ENG|8|
+T-22|Anurag Ch|Dublin, CA|0|ENG|IND|AUS|WI|ENG|IND|IND|8|
+T-22|Sreenivas Gollapudi|USA|0|ENG|IND|NZ|SA|ENG|IND|ENG|8|
+T-22|Krishna|Sunnyvale, USA|0|AUS|SL|IND|ENG|ENG|IND|IND|8|
 T-22|Rahul|Oxford, UK|0|ENG|NZ|IND|AUS|AUS|IND|IND|8|
-T-27|KARMA 🦄|Hyderabad, India|1|ENG|IND|AUS|PAK|IND|ENG|ENG|7|
-T-27|Vasi|Chennai, India|0|SA|NZ|AUS|IND|IND|AUS|AUS|7|
-T-27|Anurag Ch|Dublin, CA|0|ENG|IND|AUS|WI|ENG|IND|IND|7|
-T-27|Mukund|Pittsburgh, PA|0|ENG|AUS|IND|WI|AUS|ENG|ENG|7|
-T-27|Chayan|Oakland, CA|0|ENG|AUS|SA|NZ|ENG|AUS|ENG|7|
-T-27|Ranga|Buffalo, NY|0|ENG|IND|AUS|WI|IND|ENG|IND|7|
-T-27|Junior messi|Chennai, India|1|ENG|IND|AUS|SA|SA|IND|IND|7|
-T-27|Mahesh|Chennai, India|0|ENG|IND|AUS|WI|ENG|IND|ENG|7|
-T-27|Ishi|USA|1|ENG|IND|AUS|WI|ENG|IND|IND|7|
-T-27|Anup|Santa Clara, CA|0|ENG|AUS|IND|WI|IND|ENG|IND|7|
-T-27|Tees|USA|0|ENG|IND|AUS|SA|IND|AUS|AUS|7|
-T-38|Shashank Tiwari|Palo Alto, CA|0|IND|AUS|PAK|WI|IND|AUS|IND|6|
-T-38|Ananth|Chennai, India|0|ENG|IND|SA|AUS|ENG|IND|IND|6|
-T-38|Ravi|Kolkata, India|0|IND|AUS|SA|WI|IND|WI|IND|6|
-T-38|Shiva|GLEN ALLEN|0|ENG|AUS|WI|IND|ENG|AUS|ENG|6|
-T-38|Ram |Sunnyvale, CA|0|ENG|IND|SA|AUS|ENG|IND|ENG|6|
-T-38|CricHawk|Richmond, VA|0|IND|ENG|SA|AUS|IND|ENG|IND|6|
-T-38|Goutham Ekollu|Bangalore, India|0|ENG|IND|SA|AUS|ENG|IND|IND|6|
-T-45|Dart Thwader|Cupertino, CA|0|PAK|IND|SA|AUS|SA|IND|IND|5|
-T-45|Partha|Chennai, India|0|ENG|WI|IND|AUS|ENG|WI|ENG|5|
-T-45|Rajesh|Chennai, India|0|IND|ENG|SA|WI|IND|ENG|ENG|5|
-48|Laddu|India|1|AUS|BAN|AUS|AUS|BAN|BAN|AUS|4|
-49|DEboy2007|Bangalore, India|1|IND|IND|IND|IND|IND|IND|IND|3|3|
+T-22|Ranga|Buffalo, NY|0|ENG|IND|AUS|WI|IND|ENG|IND|8|
+T-22|Shashank Tiwari|Palo Alto, CA|0|IND|AUS|PAK|WI|IND|AUS|IND|8|
+T-22|Mahesh|Chennai, India|0|ENG|IND|AUS|WI|ENG|IND|ENG|8|
+T-22|Ishi|USA|1|ENG|IND|AUS|WI|ENG|IND|IND|8|
+T-22|Anup|Santa Clara, CA|0|ENG|AUS|IND|WI|IND|ENG|IND|8|
+T-22|Tees|USA|0|ENG|IND|AUS|SA|IND|AUS|AUS|8|
+T-22|bala|USA|0|ENG|NZ|IND|AUS|ENG|IND|IND|8|
+T-22|Ravi|Kolkata, India|0|IND|AUS|SA|WI|IND|WI|IND|8|
+T-22|Harsh|USA|0|AUS|ENG|IND|PAK|IND|ENG|IND|8|
+T-22|Junior messi|Chennai, India|1|ENG|IND|AUS|SA|SA|IND|IND|8|
+T-38|Shiva|GLEN ALLEN|0|ENG|AUS|WI|IND|ENG|AUS|ENG|7|
+T-38|Ananth|Chennai, India|0|ENG|IND|SA|AUS|ENG|IND|IND|7|
+T-38|Ram |Sunnyvale, CA|0|ENG|IND|SA|AUS|ENG|IND|ENG|7|
+T-38|Sahana|Hyderabad, India|1|AUS|ENG|WI|IND|ENG|WI|WI|7|
+T-38|Goutham Ekollu|Bangalore, India|0|ENG|IND|SA|AUS|ENG|IND|IND|7|
+T-38|Rajesh|Chennai, India|0|IND|ENG|SA|WI|IND|ENG|ENG|7|
+T-44|Shaj|Houston, TX|0|AUS|NZ|SA|IND|AUS|NZ|AUS|6|
+T-44|Vasi|Chennai, India|0|SA|NZ|AUS|IND|IND|AUS|AUS|6|
+T-44|Partha|Chennai, India|0|ENG|WI|IND|AUS|ENG|WI|ENG|6|
+47|Dart Thwader|Cupertino, CA|0|PAK|IND|SA|AUS|SA|IND|IND|5|
+48|DEboy2007|Bangalore, India|1|IND|IND|IND|IND|IND|IND|IND|4|
+49|Laddu|India|1|AUS|BAN|AUS|AUS|BAN|BAN|AUS|3|
 
-* The Score is *provisional* since only 38 out of 45 matches have been played.
+* This Score is based on the 45 qualifying round matches that have been played.
 
 # Juniors Leaderboard
 
 |Rank|Name |Place| <18| Q1 | Q2 | Q3| Q4| S1|S2|Win|Points*|
 | --- |--- | --- | ---| --- | ---| --- | ---| ---|
-1|StephCurry739Champs|Fremont, CA|1|AUS|ENG|IND|NZ|IND|AUS|AUS|12|
-T-2|Keshav Narasimhan|Pittsburgh, USA|1|ENG|AUS|IND|NZ|AUS|ENG|ENG|10|
-T-2|GAUTAM|Chennai, India|1|ENG|AUS|NZ|IND|ENG|AUS|ENG|10|
-4|AS|Milpitas, CA|1|IND|NZ|ENG|PAK|IND|NZ|IND|9|
-5|Sahana|Hyderabad, India|1|AUS|ENG|WI|IND|ENG|WI|WI|8|
-T-6|Junior messi|Chennai, India|1|ENG|IND|AUS|SA|SA|IND|IND|7|
-T-6|Ishi|USA|1|ENG|IND|AUS|WI|ENG|IND|IND|7|
-T-6|KARMA 🦄|Hyderabad, India|1|ENG|IND|AUS|PAK|IND|ENG|ENG|7|
-9|Laddu|India|1|AUS|BAN|AUS|AUS|BAN|BAN|AUS|4|
-10|DEboy2007|Bangalore, India|1|IND|IND|IND|IND|IND|IND|IND|3|
-
+T-1|Keshav Narasimhan|Pittsburgh, USA|1|ENG|AUS|IND|NZ|AUS|ENG|ENG|12|
+T-1|StephCurry739Champs|Fremont, CA|1|AUS|ENG|IND|NZ|IND|AUS|AUS|12|
+T-3|GAUTAM|Chennai, India|1|ENG|AUS|NZ|IND|ENG|AUS|ENG|10|
+T-3|AS|Milpitas, CA|1|IND|NZ|ENG|PAK|IND|NZ|IND|10|
+T-5|Junior messi|Chennai, India|1|ENG|IND|AUS|SA|SA|IND|IND|8|
+T-5|Ishi|USA|1|ENG|IND|AUS|WI|ENG|IND|IND|8|
+T-5|KARMA 🦄|Hyderabad, India|1|ENG|IND|AUS|PAK|IND|ENG|ENG|8|
+8|Sahana|Hyderabad, India|1|AUS|ENG|WI|IND|ENG|WI|WI|7|
+9|DEboy2007|Bangalore, India|1|IND|IND|IND|IND|IND|IND|IND|4|
+10|Laddu|India|1|AUS|BAN|AUS|AUS|BAN|BAN|AUS|3|
 
 # 2019 ICC World Cup Prediction Contest
 
