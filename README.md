@@ -1,5 +1,8 @@
 ![Logo](images/ICCWCPP.png)
 
+### Congratulations to Keshav (Pittsburgh), Subbu-M (Palo Alto) & Gautam Grover (Chicago, IL) for winning the 2019 ICC Cricket WC Prediction Contest!
+### Keshav also wins the Juniors Prediction contest
+
 # Leaderboard
 
 |Rank|Name |Place| <18| Q1 | Q2 | Q3| Q4| S1|S2|Win|Points*|
